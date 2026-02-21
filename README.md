@@ -3,7 +3,7 @@
 ![HTB](https://img.shields.io/badge/Hack%20The%20Box-Writeups-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 ![Difficulty](https://img.shields.io/badge/Organized%20By-Difficulty-blue?style=flat)
-![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 ---
 
@@ -95,4 +95,4 @@ This repository is for educational purposes only. All techniques described here 
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-You are free to use, copy, modify, and distribute this content, provided the original author is credited.
+You are free to use, copy, modify, and distribute this content, provided the original author is credited.\
