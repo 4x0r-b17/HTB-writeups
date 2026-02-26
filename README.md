@@ -71,9 +71,15 @@ Machines are organized according to their official Hack The Box difficulty ratin
 
 ## Completed Machines
 
-| Machine | Difficulty | OS | Status |
-|---|---|---|---|
-| — | — | — | — |
+| Machine | Difficulty | OS |
+|---|---|---|
+| Cap | Easy | Linux |
+| Facts | Easy | Linux |
+| WingData | Easy | Linux |
+| Expressway | Easy | Linux |
+| Conversor | Easy | Linux |
+| MonitorsFour | Easy | Windows |
+
 
 ---
 
