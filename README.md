@@ -79,6 +79,7 @@ Machines are organized according to their official Hack The Box difficulty ratin
 | Expressway | Easy | Linux |
 | Conversor | Easy | Linux |
 | MonitorsFour | Easy | Windows |
+| Eighteen | Easy | Windows |
 
 
 ---
