@@ -80,6 +80,7 @@ Machines are organized according to their official Hack The Box difficulty ratin
 | Conversor | Easy | Linux |
 | MonitorsFour | Easy | Windows |
 | Eighteen | Easy | Windows |
+| CCTV | Easy | Linux |
 | Interpreter | Medium | Linux |
 
 ---
